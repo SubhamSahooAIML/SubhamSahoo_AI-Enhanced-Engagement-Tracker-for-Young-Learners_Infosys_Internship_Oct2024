@@ -1,8 +1,8 @@
 import cv2
 import numpy as np
 
-cap1 = cv2.VideoCapture("C:\\Users\\Acer\\Downloads\\istockphoto-1956763445-640_adpp_is.mp4")
-cap2 = cv2.VideoCapture("C:\\Users\\Acer\\Downloads\\istockphoto-1956763445-640_adpp_is.mp4")
+cap1 = cv2.VideoCapture("C:\\Users\\Acer\\Downloads\\istockphoto-1956763445-640_adpp_is.mp4") //put your video path
+cap2 = cv2.VideoCapture("C:\\Users\\Acer\\Downloads\\istockphoto-1956763445-640_adpp_is.mp4") //put your video path
 
 if not cap1.isOpened() or not cap2.isOpened():
     print("Error: Could not open video.")
