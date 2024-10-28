@@ -12,7 +12,7 @@ this system provides actionable insights to educators and guardians, creating a 
 
 This repository contains the following 3 folders for now :
 
-### [image_processing_techniques](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/annotations) 🖼️
+### [image_processing_techniques](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/image_processing%20techniques) 🖼️
 
 Contains all image processing techniques used in the project.
 
