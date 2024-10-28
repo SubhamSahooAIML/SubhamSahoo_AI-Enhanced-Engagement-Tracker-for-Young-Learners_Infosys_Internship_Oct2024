@@ -12,15 +12,15 @@ this system provides actionable insights to educators and guardians, creating a 
 
 This repository contains the following 3 folders for now :
 
-### [image_techniques]([./image_techniques](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/annotations)) 🖼️
+### [image_techniques]([image_techniques](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/annotations)) 🖼️
 
 Contains all image processing techniques used in the project.
 
-### [vedio_techniques]([./vedio_techniques](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/video_processing%20techniques)) 🎥
+### [vedio_techniques]([vedio_techniques](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/video_processing%20techniques)) 🎥
 
 Includes various video processing methods implemented.
 
-### [annotations](./https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/annotations) 📝
+### [annotations](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/annotations) 📝
 
 Stores the annotations used for model training and evaluation.
 
