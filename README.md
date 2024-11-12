@@ -13,63 +13,63 @@ this system provides actionable insights to educators and guardians, creating a 
 This repository contains the following 3 folders for now :
 
 ### [image_processing_techniques](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/image_processing%20techniques) 🖼️
-1. IMG_Dilation&erosion.py 
+1. [IMG_Dilation&erosion.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Dilation%26erosion.py)
 
    This script performs dilation and erosion operations on images, which are fundamental morphological operations used in image processing.
 
-2. IMG_EdgeDection.py
+2. [IMG_EdgeDection.py]([YOUR_LINK_HERE](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_EdgeDection.py)
 
    This script detects edges in images using various edge detection algorithms, which are crucial for identifying object boundaries.
 
-3. IMG_GrayscaleNB&Wimg.py
+3. [IMG_GrayscaleNB&Wimg.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_GraysacleNB%26Wimg.py)
 
    This script converts images to grayscale and black & white, which are common preprocessing steps in image analysis.
 
-4. IMG_HSV.py
+4. [IMG_HSV.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_HSV.py)
 
    This script converts images to the HSV (Hue, Saturation, Value) color space, which is often used in color-based image segmentation.
 
-5. IMG_Multiple_Image_opener.py
+5. [IMG_Multiple_Image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_MultIple_Image_opener.py)
 
    This script allows for opening and processing multiple images simultaneously, facilitating batch image processing.
 
-6. IMG_Rotating_img.py
+6. [IMG_Rotating_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Rotating_img.py)
 
    This script rotates images by a specified angle, which can be useful for image alignment and augmentation.
 
-7. IMG_Single_image_opener.py
+7. [IMG_Single_image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Single_image_opener.py)
 
    This script opens and processes a single image, serving as a basic utility for image manipulation.
 
-8. IMG_blur.py
+8. [IMG_blur.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_blur.py)
 
    This script applies various blurring techniques to images, which can be used for noise reduction and smoothing.
 
-9. IMG_concatination.py
+9. [IMG_concatination.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_concatination.py)
 
    This script concatenates multiple images into a single image, which can be useful for creating image mosaics or comparisons.
 
-10. IMG_contouring.py
+10. [IMG_contouring.py](YOUR_LINK_HERE)
 
     This script detects and draws contours around objects in images, which is useful for shape analysis and object detection.
 
-11. IMG_cropping.py
+11. [IMG_cropping.py](YOUR_LINK_HERE)
 
     This script crops images to a specified region, which is useful for focusing on specific areas of interest.
 
-12. IMG_hist_eq.py
+12. [IMG_hist_eq.py](YOUR_LINK_HERE)
 
     This script performs histogram equalization on images, which enhances the contrast of images.
 
-13. IMG_morphilogicalnoise_removal.py
+13. [IMG_morphilogicalnoise_removal.py](YOUR_LINK_HERE)
 
     This script removes noise from images using morphological operations, improving image quality.
 
-14. IMG_resizing_img.py
+14. [IMG_resizing_img.py](YOUR_LINK_HERE)
 
     This script resizes images to specified dimensions, which is essential for standardizing image sizes.
 
-15. IMG_template.py
+15. [IMG_template.py](YOUR_LINK_HERE)
 
     This script serves as a template for creating new image processing scripts, providing a basic structure to follow.
 
