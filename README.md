@@ -103,24 +103,24 @@ Includes various video processing methods implemented.
 ### [annotations](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/annotations) 📝
 
 Stores the annotations used for model training and evaluation.
-
-1. input_img.jpeg:
+1. [input_img.jpeg](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/input_img.jpeg):
    Sample image file used for testing and demonstration purposes.
 
-2. kaggle_install.py:
-    Script for installing necessary packages or dependencies from Kaggle.
+2. [kaggle_install.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/kaggle%20install.py):
+   Script for installing necessary packages or dependencies from Kaggle.
 
-3. labelIMG.py:
-    Script for labeling images with specific labels or categories.
+3. [labelIMG.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/labelIMG.py):
+   Script for labeling images with specific labels or categories.
 
-4. label_img_output.txt:
-    Output file containing results from the labelIMG.py script.
+4. [label_img_output.txt](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/label_img_output.txt):
+   Output file containing results from the labelIMG.py script.
 
-5. label_manipulation.py:
-     Script for manipulating image labels (e.g., modifying, updating).
+5. [label_manipulation.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/label_manupulation.py):
+   Script for manipulating image labels (e.g., modifying, updating).
 
-6. segregation.py:
-    Script for segregating data into different categories or groups.
+6. [segregation.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/segregation.py):
+   Script for segregating data into different categories or groups.
+
 
 
 
