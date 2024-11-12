@@ -78,23 +78,23 @@ This repository contains the following 3 folders for now :
 
 Includes various video processing methods implemented.
 
-1. Video_recording.py
+1. [Video_recording.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/Video_recording.py)
 
    This script allows you to record videos using your webcam or another connected camera. It captures the video feed, processes it, and saves it to a specified file format.
 
-2. Video_stacking.py
+2. [Video_stacking.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/Video_stacking.py)
 
    This script stacks multiple video streams into a single video frame. It can be used to display multiple video feeds simultaneously in a grid format, making it useful for monitoring multiple camera sources.
 
-3. video_Fps_Calculator.py
+3. [video_Fps_Calculator.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/video_Fps_Calculator.py)
 
    This script calculates the frames per second (FPS) of a video stream. It helps in analyzing the performance of video processing by providing real-time FPS data.
 
-4. video_multivideostream.py
+4. [video_multivideostream.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/video_multivideostream.py)
 
    This script processes and displays multiple video streams simultaneously. It is designed to handle multiple video inputs and render them together, allowing for complex video processing and comparison tasks.
 
-5. video_stream.py
+5. [video_stream.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/video_stream.py)
 
    This script streams video from a file or camera in real-time. It serves as a basic utility for streaming video feeds, which can be extended for more advanced processing tasks.
 
