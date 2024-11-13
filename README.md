@@ -123,17 +123,25 @@ This script detects edges in images using various edge detection algorithms, whi
   output image
    ![Screenshot 2024-11-13 224553](https://github.com/user-attachments/assets/78594f2f-6110-4825-bade-8c4b3e141078)
 
-16. [IMG_resizing_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infos![Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/294dd1da-9158-4afc-a90a-ac36851af986)
-ys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_resizing_Img.py)
-![Screenshot 2024-11-13 175852](https://github.com/user-attachments/assets/f49e67b3-412a-4205-8949-00dbada632f1)
+16. [IMG_resizing_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_resizing_Img.py)
+
 
     This script resizes images to specified dimensions, which is essential for standardizing image sizes.
+    input 
+[Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/294dd1da-9158-4afc-a90a-ac36851af986)
 
-17. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
+ output
+ 
+![Screenshot 2024-11-13 175852](https://github.com/user-attachments/assets/f49e67b3-412a-4205-8949-00dbada632f1)
+
+18. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
 
   This script serves as a template for creating new image processing scripts, providing a basic structure to follow.
 
+input 
 ![41](https://github.com/user-attachments/assets/711bab83-33b9-4315-a048-acc07a8b4e2d)
+
+output
 ![Screenshot 2024-11-13 180040](https://github.com/user-attachments/assets/dc75dc6c-88dc-4bc9-b170-519625ea56da)
 
 
