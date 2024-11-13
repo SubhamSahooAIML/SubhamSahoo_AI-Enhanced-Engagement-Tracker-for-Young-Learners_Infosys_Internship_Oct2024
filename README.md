@@ -134,9 +134,9 @@ This script detects edges in images using various edge detection algorithms, whi
   
     input
     
-    [Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/294dd1da-9158-4afc-a90a-ac36851af986)
+   ![Screenshot 2024-11-13 224220](https://github.com/user-attachments/assets/1b4ca5d2-cc94-44ec-b45f-664f92767fbf)
 
-    output
+   output
  
    ![Screenshot 2024-11-13 175852](https://github.com/user-attachments/assets/f49e67b3-412a-4205-8949-00dbada632f1)
  
