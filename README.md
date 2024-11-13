@@ -64,7 +64,6 @@ This script detects edges in images using various edge detection algorithms, whi
    This script rotates images by a specified angle, which can be useful for image alignment and augmentation.
 
 ![Screenshot 2024-11-13 180442](https://github.com/user-attachments/assets/38560bad-0e03-49f9-8af1-e0cf4e3c9a79)
-
 ![Screenshot 2024-11-13 175914](https://github.com/user-attachments/assets/b5e7a5e3-60e6-45d8-959f-1f4c899955aa)
 
 
