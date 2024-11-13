@@ -99,21 +99,37 @@ This script detects edges in images using various edge detection algorithms, whi
 
     This script crops images to a specified region, which is useful for focusing on specific areas of interest.
 
+     input
+     ![Screenshot 2024-11-13 224220](https://github.com/user-attachments/assets/080b6bc9-c8d2-44ed-9305-6804e763e679)
+
+     output
+     ![Screenshot 2024-11-13 224214](https://github.com/user-attachments/assets/e58c3e7c-9836-4548-bed0-563a7247306c)
+
+
+     
 12. [IMG_hist_eq.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_hist_eq.py)
 
     This script performs histogram equalization on images, which enhances the contrast of images.
+    
+    ![Screenshot 2024-11-13 224422](https://github.com/user-attachments/assets/6c5e9b95-bcaa-4104-8a6d-d99351c639a3)
 
-13. [IMG_morphilogicalnoise_removal.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_morphilogicalnoise_removal.py)
+    
+
+14. [IMG_morphilogicalnoise_removal.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_morphilogicalnoise_removal.py)
 
     This script removes noise from images using morphological operations, improving image quality.
+ input image
+  ![Screenshot 2024-11-13 224539](https://github.com/user-attachments/assets/63691220-9126-48b9-bbdc-8c1bcba14259)
+  output image
+   ![Screenshot 2024-11-13 224553](https://github.com/user-attachments/assets/78594f2f-6110-4825-bade-8c4b3e141078)
 
-14. [IMG_resizing_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infos![Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/294dd1da-9158-4afc-a90a-ac36851af986)
+16. [IMG_resizing_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infos![Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/294dd1da-9158-4afc-a90a-ac36851af986)
 ys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_resizing_Img.py)
 ![Screenshot 2024-11-13 175852](https://github.com/user-attachments/assets/f49e67b3-412a-4205-8949-00dbada632f1)
 
     This script resizes images to specified dimensions, which is essential for standardizing image sizes.
 
-15. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
+17. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
 
   This script serves as a template for creating new image processing scripts, providing a basic structure to follow.
 
