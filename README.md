@@ -18,7 +18,7 @@ This repository contains the following 3 folders for now :
    This script performs dilation and erosion operations on images, which are fundamental morphological operations used in image processing.
      (https://github.com/user-attachments/assets/413cc0d1-b007-4ee6-9f9e-2e605d555d3f)
 
-3. [IMG_EdgeDection.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Inf
+3. [IMG_EdgeDection.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Inf)
 
  ![Screenshot 2024-11-13 181144](https://github.com/user-attachments/assets/ba88b460-4dd4-4403-af21-b646ce81b752)
 
