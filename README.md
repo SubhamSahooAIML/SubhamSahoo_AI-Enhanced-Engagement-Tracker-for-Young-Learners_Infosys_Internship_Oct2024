@@ -18,7 +18,7 @@ This repository contains the following 3 folders for now :
    This script performs dilation and erosion operations on images, which are fundamental morphological operations used in image processing.
 
  
-![Screenshot 2024-11-13 222131](https://github.com/user-attachments/assets/42dffd4e-e92c-4ac8-ab3a-833bfa8971fc)
+   ![Screenshot 2024-11-13 222131](https://github.com/user-attachments/assets/42dffd4e-e92c-4ac8-ab3a-833bfa8971fc)
 
 
 2. [IMG_EdgeDection.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Inf)
@@ -46,7 +46,7 @@ This repository contains the following 3 folders for now :
 
     This script converts images to the HSV (Hue, Saturation, Value) color space, which is often used in color-based image segmentation.
 
-   ![Screenshot 2024-11-13 181524](https://github.com/user-attachments/assets/a367855d-9acd-4220-87b6-64e577b65e94)
+    ![Screenshot 2024-11-13 181524](https://github.com/user-attachments/assets/a367855d-9acd-4220-87b6-64e577b65e94)
 
 
 5. [IMG_Multiple_Image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_MultIple_Image_opener.py)
@@ -77,9 +77,9 @@ This repository contains the following 3 folders for now :
 8. [IMG_blur.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_blur.py)
 
    This script applies various blurring techniques to images, which can be used for noise reduction and smoothing.
-   
-  ![Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/24009c4c-8611-4f40-9650-db9b2a798b07)
-
+    
+   ![Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/24009c4c-8611-4f40-9650-db9b2a798b07)
+ 
 9. [IMG_concatination.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_concatination.py)
 
 
@@ -89,9 +89,9 @@ This repository contains the following 3 folders for now :
 
 10. [IMG_contouring.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_contouring.py)
  
-   This script detects and draws contours around objects in images, which is useful for shape analysis and object detection.
-
-   ![Screenshot 2024-11-13 180943](https://github.com/user-attachments/assets/e068e7bd-5f76-4294-a7e0-1c5006b7c0af)
+    This script detects and draws contours around objects in images, which is useful for shape analysis and object detection.
+ 
+  ![Screenshot 2024-11-13 180943](https://github.com/user-attachments/assets/e068e7bd-5f76-4294-a7e0-1c5006b7c0af)
 
 
 
