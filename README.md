@@ -116,11 +116,11 @@ ys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_resizing_Img.p
 
 15. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
 
-![41](https://github.com/user-attachments/assets/711bab83-33b9-4315-a048-acc07a8b4e2d)
+  This script serves as a template for creating new image processing scripts, providing a basic structure to follow.
 
+![41](https://github.com/user-attachments/assets/711bab83-33b9-4315-a048-acc07a8b4e2d)
 ![Screenshot 2024-11-13 180040](https://github.com/user-attachments/assets/dc75dc6c-88dc-4bc9-b170-519625ea56da)
 
-    This script serves as a template for creating new image processing scripts, providing a basic structure to follow.
 
 
 ### [video_processing_techniques](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/video_processing%20techniques)🎥
