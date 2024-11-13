@@ -24,9 +24,9 @@ This repository contains the following 3 folders for now :
 2. [IMG_EdgeDection.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Inf)
 
 
-This script detects edges in images using various edge detection algorithms, which are crucial for identifying object boundaries.
+   This script detects edges in images using various edge detection algorithms, which are crucial for identifying object boundaries.
 
- ![Screenshot 2024-11-13 181144](https://github.com/user-attachments/assets/ba88b460-4dd4-4403-af21-b646ce81b752)
+   ![Screenshot 2024-11-13 181144](https://github.com/user-attachments/assets/ba88b460-4dd4-4403-af21-b646ce81b752)
 
 
      
@@ -34,17 +34,17 @@ This script detects edges in images using various edge detection algorithms, whi
 
    This script converts images to grayscale and black & white, which are common preprocessing steps in image analysis.
    
-![Screenshot 2024-11-13 175547](https://github.com/user-attachments/assets/d63aa0d5-8658-4249-a0ca-0b165922dd9f)
+   ![Screenshot 2024-11-13 175547](https://github.com/user-attachments/assets/d63aa0d5-8658-4249-a0ca-0b165922dd9f)
 
-![Screenshot 2024-11-13 175613](https://github.com/user-attachments/assets/cd5af0c2-7be7-43e7-a9d8-ad7818431cc9)
+   ![Screenshot 2024-11-13 175613](https://github.com/user-attachments/assets/cd5af0c2-7be7-43e7-a9d8-ad7818431cc9)
 
-![Screenshot 2024-11-13 175603](https://github.com/user-attachments/assets/7e2f9d07-b73e-48eb-a015-77d7625e112e)
+   ![Screenshot 2024-11-13 175603](https://github.com/user-attachments/assets/7e2f9d07-b73e-48eb-a015-77d7625e112e)
 
 
 
 4. [IMG_HSV.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_HSV.py)
 
-   This script converts images to the HSV (Hue, Saturation, Value) color space, which is often used in color-based image segmentation.
+    This script converts images to the HSV (Hue, Saturation, Value) color space, which is often used in color-based image segmentation.
 
    ![Screenshot 2024-11-13 181524](https://github.com/user-attachments/assets/a367855d-9acd-4220-87b6-64e577b65e94)
 
@@ -53,24 +53,23 @@ This script detects edges in images using various edge detection algorithms, whi
 
    This script allows for opening and processing multiple images simultaneously, facilitating batch image processing.
    
-![Screenshot 2024-11-13 175829](https://github.com/user-attachments/assets/84944622-db95-462d-b7c3-b2e51913e37a)
+  ![Screenshot 2024-11-13 175829](https://github.com/user-attachments/assets/84944622-db95-462d-b7c3-b2e51913e37a)
 
   ![Screenshot 2024-11-13 222437](https://github.com/user-attachments/assets/5cc4b89d-0bea-4f0b-b607-3a3fcc78b934)
-![Screenshot 2024-11-13 222443](https://github.com/user-attachments/assets/7b893a26-158d-4ed6-8278-e2dfd1d6bf51)
-![Screenshot 2024-11-13 222449](https://github.com/user-attachments/assets/d39c49f8-17c3-439a-a067-939044c15d21)
+  ![Screenshot 2024-11-13 222443](https://github.com/user-attachments/assets/7b893a26-158d-4ed6-8278-e2dfd1d6bf51)
+  ![Screenshot 2024-11-13 222449](https://github.com/user-attachments/assets/d39c49f8-17c3-439a-a067-939044c15d21)
 
 
 6. [IMG_Rotating_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Rotating_img.py)
-   This script rotates images by a specified angle, which can be useful for image alignment and augmentation.
 
-![Screenshot 2024-11-13 180442](https://github.com/user-attachments/assets/38560bad-0e03-49f9-8af1-e0cf4e3c9a79)
-![Screenshot 2024-11-13 175914](https://github.com/user-attachments/assets/b5e7a5e3-60e6-45d8-959f-1f4c899955aa)
+    This script rotates images by a specified angle, which can be useful for image alignment and augmentation.
+
+   ![Screenshot 2024-11-13 180442](https://github.com/user-attachments/assets/38560bad-0e03-49f9-8af1-e0cf4e3c9a79)
+   ![Screenshot 2024-11-13 175914](https://github.com/user-attachments/assets/b5e7a5e3-60e6-45d8-959f-1f4c899955aa)
 
 
 7. [IMG_Single_image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Single_image_opener.py)
     
-
-
    This script opens and processes a single image, serving as a basic utility for image manipulation.
    
    ![Screenshot 2024-11-13 180015](https://github.com/user-attachments/assets/b00b5cfb-12fe-4fa2-8bef-d4c19d20aab2)
@@ -79,7 +78,7 @@ This script detects edges in images using various edge detection algorithms, whi
 
    This script applies various blurring techniques to images, which can be used for noise reduction and smoothing.
    
-![Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/24009c4c-8611-4f40-9650-db9b2a798b07)
+  ![Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/24009c4c-8611-4f40-9650-db9b2a798b07)
 
 9. [IMG_concatination.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_concatination.py)
 
@@ -89,20 +88,23 @@ This script detects edges in images using various edge detection algorithms, whi
    ![Screenshot 2024-11-13 174822](https://github.com/user-attachments/assets/bde9858e-9930-46fb-b782-059f515d0ad6)
 
 10. [IMG_contouring.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_contouring.py)
+ 
    This script detects and draws contours around objects in images, which is useful for shape analysis and object detection.
 
-![Screenshot 2024-11-13 180943](https://github.com/user-attachments/assets/e068e7bd-5f76-4294-a7e0-1c5006b7c0af)
+   ![Screenshot 2024-11-13 180943](https://github.com/user-attachments/assets/e068e7bd-5f76-4294-a7e0-1c5006b7c0af)
 
 
 
 11. [IMG_cropping.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_cropping.py)
 
-    This script crops images to a specified region, which is useful for focusing on specific areas of interest.
+     This script crops images to a specified region, which is useful for focusing on specific areas of interest.
 
      input
+    
      ![Screenshot 2024-11-13 224220](https://github.com/user-attachments/assets/080b6bc9-c8d2-44ed-9305-6804e763e679)
 
      output
+     
      ![Screenshot 2024-11-13 224214](https://github.com/user-attachments/assets/e58c3e7c-9836-4548-bed0-563a7247306c)
 
 
@@ -115,19 +117,19 @@ This script detects edges in images using various edge detection algorithms, whi
 
     
 
-14. [IMG_morphilogicalnoise_removal.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_morphilogicalnoise_removal.py)
+13. [IMG_morphilogicalnoise_removal.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_morphilogicalnoise_removal.py)
 
     This script removes noise from images using morphological operations, improving image quality.
     
-   input image
+    input i3age
    
-   ![Screenshot 2024-11-13 224539](https://github.com/user-attachments/assets/63691220-9126-48b9-bbdc-8c1bcba14259)
-
-   output image
+    ![Screenshot 2024-11-13 224539](https://github.com/user-attachments/assets/63691220-9126-48b9-bbdc-8c1bcba14259)
+ 
+    output image
   
-   ![Screenshot 2024-11-13 224553](https://github.com/user-attachments/assets/78594f2f-6110-4825-bade-8c4b3e141078)
+    ![Screenshot 2024-11-13 224553](https://github.com/user-attachments/assets/78594f2f-6110-4825-bade-8c4b3e141078)
 
-16. [IMG_resizing_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_resizing_Img.py)
+14. [IMG_resizing_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_resizing_Img.py)
 
 
     This script resizes images to specified dimensions, which is essential for standardizing image sizes.
@@ -140,15 +142,17 @@ This script detects edges in images using various edge detection algorithms, whi
  
    ![Screenshot 2024-11-13 175852](https://github.com/user-attachments/assets/f49e67b3-412a-4205-8949-00dbada632f1)
  
-18. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
+15. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
 
   This script serves as a template for creating new image processing scripts, providing a basic structure to follow.
 
-input 
-![41](https://github.com/user-attachments/assets/711bab83-33b9-4315-a048-acc07a8b4e2d)
+  input 
+  
+  ![41](https://github.com/user-attachments/assets/711bab83-33b9-4315-a048-acc07a8b4e2d)
 
-output
-![Screenshot 2024-11-13 180040](https://github.com/user-attachments/assets/dc75dc6c-88dc-4bc9-b170-519625ea56da)
+  output
+  
+  ![Screenshot 2024-11-13 180040](https://github.com/user-attachments/assets/dc75dc6c-88dc-4bc9-b170-519625ea56da)
 
 
 
