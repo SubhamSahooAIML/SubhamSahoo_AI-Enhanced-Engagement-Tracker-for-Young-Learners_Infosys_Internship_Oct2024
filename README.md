@@ -263,7 +263,7 @@ Stores the annotations used for model training and evaluation.
  
    Script for segregating data into different categories or groups.
 
-# Face Recognition
+### [Face Recognition](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/face%20recognition)
 
 ## 1. Description
 This project focuses on face recognition using Python, OpenCV, dlib, and face_recognition libraries. It includes functionality to detect faces, recognize a specific individual's face, determine attentiveness based on head pose, and calculate attention scores. The project logs recognized faces along with their attention scores and saves screenshots for further analysis.
