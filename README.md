@@ -263,6 +263,40 @@ Stores the annotations used for model training and evaluation.
  
    Script for segregating data into different categories or groups.
 
+# Face Recognition
+
+## 1. Description
+This project focuses on face recognition using Python, OpenCV, dlib, and face_recognition libraries. It includes functionality to detect faces, recognize a specific individual's face, determine attentiveness based on head pose, and calculate attention scores. The project logs recognized faces along with their attention scores and saves screenshots for further analysis.
+
+## 2. Files
+1. **attention_score.py**: 
+   - Performs face recognition and logs attendance along with attention scores.
+   - Saves screenshots and calculates an average attention score.
+
+2. **ave_attention_score.py**: 
+   - Another script for logging attendance and attention scores with a different approach.
+   - Uses face landmarks for attentiveness analysis.
+
+3. **excel_sc_dt.py**: 
+   - Captures video, recognizes faces, and logs attendance with screenshots.
+   - Takes screenshots every 30 seconds and logs attention status.
+
+4. **excel_sc.py**: 
+   - Similar to excel_sc_dt.py, but with a different configuration for logging and capturing screenshots.
+
+5. **Face_Recog.py**: 
+   - Basic face recognition script for detecting and recognizing faces using the face_recognition library.
+
+6. **landmark.py**: 
+   - Uses dlib's facial landmark predictor to analyze attentiveness based on head pose.
+   - Logs attention scores and saves screenshots with annotations.
+
+7. **text.py**: 
+   - Contains helper functions and utilities used in other scripts.
+
+8. **tools.py**: 
+   - Contains additional tools and utilities required for face recognition and attentiveness analysis.
+
 
 
 
