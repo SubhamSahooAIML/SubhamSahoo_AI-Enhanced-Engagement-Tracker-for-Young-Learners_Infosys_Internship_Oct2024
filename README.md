@@ -121,7 +121,7 @@ This repository contains the following 3 folders for now :
 
     This script removes noise from images using morphological operations, improving image quality.
     
-    input i3age
+    input image
    
     ![Screenshot 2024-11-13 224539](https://github.com/user-attachments/assets/63691220-9126-48b9-bbdc-8c1bcba14259)
  
@@ -136,23 +136,23 @@ This repository contains the following 3 folders for now :
   
     input
     
-   ![Screenshot 2024-11-13 224220](https://github.com/user-attachments/assets/1b4ca5d2-cc94-44ec-b45f-664f92767fbf)
+    ![Screenshot 2024-11-13 224220](https://github.com/user-attachments/assets/1b4ca5d2-cc94-44ec-b45f-664f92767fbf)
 
-   output
+    output
  
-   ![Screenshot 2024-11-13 175852](https://github.com/user-attachments/assets/f49e67b3-412a-4205-8949-00dbada632f1)
+    ![Screenshot 2024-11-13 175852](https://github.com/user-attachments/assets/f49e67b3-412a-4205-8949-00dbada632f1)
  
 15. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
+ 
+    This script serves as a template for creating new image processing scripts, providing a basic structure to follow.
 
-  This script serves as a template for creating new image processing scripts, providing a basic structure to follow.
-
-  input 
+    input 
   
-  ![41](https://github.com/user-attachments/assets/711bab83-33b9-4315-a048-acc07a8b4e2d)
+    ![41](https://github.com/user-attachments/assets/711bab83-33b9-4315-a048-acc07a8b4e2d)
 
-  output
+    output
   
-  ![Screenshot 2024-11-13 180040](https://github.com/user-attachments/assets/dc75dc6c-88dc-4bc9-b170-519625ea56da)
+    ![Screenshot 2024-11-13 180040](https://github.com/user-attachments/assets/dc75dc6c-88dc-4bc9-b170-519625ea56da)
 
 
 
