@@ -13,63 +13,82 @@ this system provides actionable insights to educators and guardians, creating a 
 This repository contains the following 3 folders for now :
 
 ### [image_processing_techniques](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/image_processing%20techniques) 🖼️
-1. [IMG_Dilation&erosion.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Dilation%26erosion.py)
+1. [IMG_Dilation&erosion.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Dilation%26erosion.py) 
 
    This script performs dilation and erosion operations on images, which are fundamental morphological operations used in image processing.
+     [input and output](https://github.com/user-attachments/assets/413cc0d1-b007-4ee6-9f9e-2e605d555d3f)
 
-2. [IMG_EdgeDection.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_EdgeDection.py)
+3. [IMG_EdgeDection.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Inf
+
+ ![Screenshot 2024-11-13 181144](https://github.com/user-attachments/assets/ba88b460-4dd4-4403-af21-b646ce81b752)
+osys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_EdgeDection.py)
 
    This script detects edges in images using various edge detection algorithms, which are crucial for identifying object boundaries.
-
-3. [IMG_GrayscaleNB&Wimg.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_GraysacleNB%26Wimg.py)
+   
+     
+5. [IMG_GrayscaleNB&Wimg.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_GraysacleNB%26Wimg.py)
 
    This script converts images to grayscale and black & white, which are common preprocessing steps in image analysis.
+   
+![Screenshot 2024-11-13 175547](https://github.com/user-attachments/assets/d63aa0d5-8658-4249-a0ca-0b165922dd9f)
 
-4. [IMG_HSV.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_HSV.py)
+![Screenshot 2024-11-13 175613](https://github.com/user-attachments/assets/cd5af0c2-7be7-43e7-a9d8-ad7818431cc9)
+
+![Screenshot 2024-11-13 175603](https://github.com/user-attachments/assets/7e2f9d07-b73e-48eb-a015-77d7625e112e)
+
+
+
+6. [IMG_HSV.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_HSV.py)
 
    This script converts images to the HSV (Hue, Saturation, Value) color space, which is often used in color-based image segmentation.
 
-5. [IMG_Multiple_Image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_MultIple_Image_opener.py)
+   ![Screenshot 2024-11-13 181524](https://github.com/user-attachments/assets/a367855d-9acd-4220-87b6-64e577b65e94)
+
+
+8. [IMG_Multiple_Image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_MultIple_Image_opener.py)
 
    This script allows for opening and processing multiple images simultaneously, facilitating batch image processing.
 
-6. [IMG_Rotating_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Rotating_img.py)
+9. [IMG_Rotating_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Rotating_img.py)
 
    This script rotates images by a specified angle, which can be useful for image alignment and augmentation.
 
-7. [IMG_Single_image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Single_image_opener.py)
+10. [IMG_Single_image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Single_image_opener.py)
 
    This script opens and processes a single image, serving as a basic utility for image manipulation.
 
-8. [IMG_blur.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_blur.py)
+11. [IMG_blur.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_blur.py)
 
    This script applies various blurring techniques to images, which can be used for noise reduction and smoothing.
 
-9. [IMG_concatination.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_concatination.py)
+11. [IMG_concatination.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_concatination.py)
 
    This script concatenates multiple images into a single image, which can be useful for creating image mosaics or comparisons.
 
-10. [IMG_contouring.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_contouring.py)
+11. [IMG_contouring.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_contouring.py)
 
     This script detects and draws contours around objects in images, which is useful for shape analysis and object detection.
+input and output
+[](https://github.com/user-attachments/assets/849f4a6f-8fad-4f1a-abf9-f3c49b55ece3)
 
-11. [IMG_cropping.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_cropping.py)
+
+13. [IMG_cropping.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_cropping.py)
 
     This script crops images to a specified region, which is useful for focusing on specific areas of interest.
 
-12. [IMG_hist_eq.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_hist_eq.py)
+14. [IMG_hist_eq.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_hist_eq.py)
 
     This script performs histogram equalization on images, which enhances the contrast of images.
 
-13. [IMG_morphilogicalnoise_removal.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_morphilogicalnoise_removal.py)
+15. [IMG_morphilogicalnoise_removal.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_morphilogicalnoise_removal.py)
 
     This script removes noise from images using morphological operations, improving image quality.
 
-14. [IMG_resizing_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_resizing_Img.py)
+16. [IMG_resizing_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_resizing_Img.py)
 
     This script resizes images to specified dimensions, which is essential for standardizing image sizes.
 
-15. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
+17. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
 
     This script serves as a template for creating new image processing scripts, providing a basic structure to follow.
 
