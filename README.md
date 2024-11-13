@@ -60,7 +60,7 @@ This script detects edges in images using various edge detection algorithms, whi
 ![Screenshot 2024-11-13 222449](https://github.com/user-attachments/assets/d39c49f8-17c3-439a-a067-939044c15d21)
 
 
-10. [IMG_Rotating_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Rotating_img.py)
+6. [IMG_Rotating_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Rotating_img.py)
    This script rotates images by a specified angle, which can be useful for image alignment and augmentation.
 
 ![Screenshot 2024-11-13 180442](https://github.com/user-attachments/assets/38560bad-0e03-49f9-8af1-e0cf4e3c9a79)
@@ -68,7 +68,7 @@ This script detects edges in images using various edge detection algorithms, whi
 ![Screenshot 2024-11-13 175914](https://github.com/user-attachments/assets/b5e7a5e3-60e6-45d8-959f-1f4c899955aa)
 
 
-12. [IMG_Single_image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Single_image_opener.py)
+7. [IMG_Single_image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Single_image_opener.py)
     
 
 
@@ -76,20 +76,20 @@ This script detects edges in images using various edge detection algorithms, whi
    
    ![Screenshot 2024-11-13 180015](https://github.com/user-attachments/assets/b00b5cfb-12fe-4fa2-8bef-d4c19d20aab2)
 
-11. [IMG_blur.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_blur.py)
+8. [IMG_blur.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_blur.py)
 
    This script applies various blurring techniques to images, which can be used for noise reduction and smoothing.
    
 ![Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/24009c4c-8611-4f40-9650-db9b2a798b07)
 
-11. [IMG_concatination.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_concatination.py)
+9. [IMG_concatination.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_concatination.py)
 
 
    This script concatenates multiple images into a single image, which can be useful for creating image mosaics or comparisons.
 
    ![Screenshot 2024-11-13 174822](https://github.com/user-attachments/assets/bde9858e-9930-46fb-b782-059f515d0ad6)
 
-11. [IMG_contouring.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_contouring.py)
+10. [IMG_contouring.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_contouring.py)
 ![Screenshot 2024-11-13 180943](https://github.com/user-attachments/assets/e068e7bd-5f76-4294-a7e0-1c5006b7c0af)
 
     This script detects and draws contours around objects in images, which is useful for shape analysis and object detection.
@@ -97,25 +97,25 @@ input and output
 [](https://github.com/user-attachments/assets/849f4a6f-8fad-4f1a-abf9-f3c49b55ece3)
 
 
-13. [IMG_cropping.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_cropping.py)
+11. [IMG_cropping.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_cropping.py)
 
     This script crops images to a specified region, which is useful for focusing on specific areas of interest.
 
-14. [IMG_hist_eq.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_hist_eq.py)
+12. [IMG_hist_eq.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_hist_eq.py)
 
     This script performs histogram equalization on images, which enhances the contrast of images.
 
-15. [IMG_morphilogicalnoise_removal.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_morphilogicalnoise_removal.py)
+13. [IMG_morphilogicalnoise_removal.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_morphilogicalnoise_removal.py)
 
     This script removes noise from images using morphological operations, improving image quality.
 
-16. [IMG_resizing_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infos![Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/294dd1da-9158-4afc-a90a-ac36851af986)
+14. [IMG_resizing_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infos![Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/294dd1da-9158-4afc-a90a-ac36851af986)
 ys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_resizing_Img.py)
 ![Screenshot 2024-11-13 175852](https://github.com/user-attachments/assets/f49e67b3-412a-4205-8949-00dbada632f1)
 
     This script resizes images to specified dimensions, which is essential for standardizing image sizes.
 
-17. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
+15. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
 
 ![41](https://github.com/user-attachments/assets/711bab83-33b9-4315-a048-acc07a8b4e2d)
 
