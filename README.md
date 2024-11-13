@@ -118,22 +118,28 @@ This script detects edges in images using various edge detection algorithms, whi
 14. [IMG_morphilogicalnoise_removal.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_morphilogicalnoise_removal.py)
 
     This script removes noise from images using morphological operations, improving image quality.
- input image
-  ![Screenshot 2024-11-13 224539](https://github.com/user-attachments/assets/63691220-9126-48b9-bbdc-8c1bcba14259)
-  output image
+    
+   input image
+   
+   ![Screenshot 2024-11-13 224539](https://github.com/user-attachments/assets/63691220-9126-48b9-bbdc-8c1bcba14259)
+
+   output image
+  
    ![Screenshot 2024-11-13 224553](https://github.com/user-attachments/assets/78594f2f-6110-4825-bade-8c4b3e141078)
 
 16. [IMG_resizing_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_resizing_Img.py)
 
 
     This script resizes images to specified dimensions, which is essential for standardizing image sizes.
-    input 
-[Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/294dd1da-9158-4afc-a90a-ac36851af986)
+  
+    input
+    
+    [Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/294dd1da-9158-4afc-a90a-ac36851af986)
 
- output
+    output
  
-![Screenshot 2024-11-13 175852](https://github.com/user-attachments/assets/f49e67b3-412a-4205-8949-00dbada632f1)
-
+   ![Screenshot 2024-11-13 175852](https://github.com/user-attachments/assets/f49e67b3-412a-4205-8949-00dbada632f1)
+ 
 18. [IMG_template.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_template.py)
 
   This script serves as a template for creating new image processing scripts, providing a basic structure to follow.
