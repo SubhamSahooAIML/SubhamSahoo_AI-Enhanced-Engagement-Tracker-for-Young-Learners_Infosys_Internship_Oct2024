@@ -163,22 +163,37 @@ Includes various video processing methods implemented.
 1. [Video_recording.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/Video_recording.py)
 
    This script allows you to record videos using your webcam or another connected camera. It captures the video feed, processes it, and saves it to a specified file format.
+ 
+    ![Screenshot 2024-11-13 231038](https://github.com/user-attachments/assets/8aa738a3-f182-43f4-ab22-82bff0d97eee)
 
+   
 2. [Video_stacking.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/Video_stacking.py)
+
 
    This script stacks multiple video streams into a single video frame. It can be used to display multiple video feeds simultaneously in a grid format, making it useful for monitoring multiple camera sources.
 
+   
+  ![Screenshot 2024-11-13 231250](https://github.com/user-attachments/assets/fb3a4032-76a9-4daf-8adf-dde0447dc4c3)  
+  
 3. [video_Fps_Calculator.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/video_Fps_Calculator.py)
 
-   This script calculates the frames per second (FPS) of a video stream. It helps in analyzing the performance of video processing by providing real-time FPS data.
+    This script calculates the frames per second (FPS) of a video stream. It helps in analyzing the performance of video processing by providing real-time FPS data.
 
+  ![Screenshot 2024-11-13 230432](https://github.com/user-attachments/assets/7c72d84b-1b29-45d1-a486-065bab77cb3a)
+
+  ![Screenshot 2024-11-13 230441](https://github.com/user-attachments/assets/084b1200-d9f1-4940-832d-8626683a09da)
+
+ 
 4. [video_multivideostream.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/video_multivideostream.py)
 
    This script processes and displays multiple video streams simultaneously. It is designed to handle multiple video inputs and render them together, allowing for complex video processing and comparison tasks.
+ 
+  ![Screenshot 2024-11-13 231250](https://github.com/user-attachments/assets/8c21f0d2-c27e-45a4-81fd-ec15fd1ba182)
 
 5. [video_stream.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/video_stream.py)
 
    This script streams video from a file or camera in real-time. It serves as a basic utility for streaming video feeds, which can be extended for more advanced processing tasks.
+   ![Screenshot 2024-11-13 231038](https://github.com/user-attachments/assets/7662d3cd-2ce4-429b-96fd-7bb7d2d090ea)
 
 
 
