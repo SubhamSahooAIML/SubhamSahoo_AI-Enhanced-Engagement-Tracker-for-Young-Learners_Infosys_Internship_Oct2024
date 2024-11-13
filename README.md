@@ -226,6 +226,7 @@ Includes various video processing methods implemented.
    This script streams video from a file or camera in real-time. It serves as a basic utility for streaming video feeds, which can be extended for more advanced processing tasks.
    
     OUTPUT : -->
+   
     ![Screenshot 2024-11-13 231038](https://github.com/user-attachments/assets/8aa738a3-f182-43f4-ab22-82bff0d97eee)
 
 
@@ -233,21 +234,33 @@ Includes various video processing methods implemented.
 
 Stores the annotations used for model training and evaluation.
 1. [input_img.jpeg](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/input_img.jpeg):
+ 
    Sample image file used for testing and demonstration purposes.
 
+   ![input_img](https://github.com/user-attachments/assets/6bca528a-add2-42b9-8581-62a03ca0bdf2)
+
+   
 2. [kaggle_install.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/kaggle%20install.py):
+ 
    Script for installing necessary packages or dependencies from Kaggle.
 
 3. [labelIMG.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/labelIMG.py):
-   Script for labeling images with specific labels or categories.
+
+    Script for labeling images with specific labels or categories.
 
 4. [label_img_output.txt](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/label_img_output.txt):
-   Output file containing results from the labelIMG.py script.
+
+    Output file containing results from the labelIMG.py script.
+
+   ![image](https://github.com/user-attachments/assets/51c823d1-25f5-400c-94ef-97e4a31465fa)
+
 
 5. [label_manipulation.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/label_manupulation.py):
+ 
    Script for manipulating image labels (e.g., modifying, updating).
 
 6. [segregation.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/annotations/segregation.py):
+ 
    Script for segregating data into different categories or groups.
 
 
