@@ -26,7 +26,8 @@ This repository contains the following 3 folders for now :
 
 
    This script detects edges in images using various edge detection algorithms, which are crucial for identifying object boundaries.
-   OUTPUT : -->
+
+    OUTPUT : -->
    
    ![Screenshot 2024-11-13 181144](https://github.com/user-attachments/assets/ba88b460-4dd4-4403-af21-b646ce81b752)
 
@@ -35,7 +36,8 @@ This repository contains the following 3 folders for now :
 3. [IMG_GrayscaleNB&Wimg.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_GraysacleNB%26Wimg.py)
 
    This script converts images to grayscale and black & white, which are common preprocessing steps in image analysis.
-   OUTPUT : -->
+
+    OUTPUT : -->
    
    ![Screenshot 2024-11-13 175547](https://github.com/user-attachments/assets/d63aa0d5-8658-4249-a0ca-0b165922dd9f)
 
@@ -48,7 +50,8 @@ This repository contains the following 3 folders for now :
 4. [IMG_HSV.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_HSV.py)
 
     This script converts images to the HSV (Hue, Saturation, Value) color space, which is often used in color-based image segmentation.
-    OUTPUT : -->
+
+   OUTPUT : -->
    
     ![Screenshot 2024-11-13 181524](https://github.com/user-attachments/assets/a367855d-9acd-4220-87b6-64e577b65e94)
 
@@ -56,6 +59,7 @@ This repository contains the following 3 folders for now :
 5. [IMG_Multiple_Image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_MultIple_Image_opener.py)
 
    This script allows for opening and processing multiple images simultaneously, facilitating batch image processing.
+
    OUTPUT : -->
    
   ![Screenshot 2024-11-13 175829](https://github.com/user-attachments/assets/84944622-db95-462d-b7c3-b2e51913e37a)
@@ -68,7 +72,8 @@ This repository contains the following 3 folders for now :
 6. [IMG_Rotating_img.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Rotating_img.py)
 
     This script rotates images by a specified angle, which can be useful for image alignment and augmentation.
-   OUTPUT : -->
+
+    OUTPUT : -->
    
    ![Screenshot 2024-11-13 180442](https://github.com/user-attachments/assets/38560bad-0e03-49f9-8af1-e0cf4e3c9a79)
    ![Screenshot 2024-11-13 175914](https://github.com/user-attachments/assets/b5e7a5e3-60e6-45d8-959f-1f4c899955aa)
@@ -77,14 +82,16 @@ This repository contains the following 3 folders for now :
 7. [IMG_Single_image_opener.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Single_image_opener.py)
     
    This script opens and processes a single image, serving as a basic utility for image manipulation.
-   OUTPUT : -->
+
+    OUTPUT : -->
    
    ![Screenshot 2024-11-13 180015](https://github.com/user-attachments/assets/b00b5cfb-12fe-4fa2-8bef-d4c19d20aab2)
 
 8. [IMG_blur.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_blur.py)
 
    This script applies various blurring techniques to images, which can be used for noise reduction and smoothing.
-    OUTPUT : --> 
+   
+   OUTPUT : --> 
     
    ![Screenshot 2024-11-13 175419](https://github.com/user-attachments/assets/24009c4c-8611-4f40-9650-db9b2a798b07)
  
@@ -92,6 +99,7 @@ This repository contains the following 3 folders for now :
 
 
    This script concatenates multiple images into a single image, which can be useful for creating image mosaics or comparisons.
+   
    OUTPUT : --> 
    
    ![Screenshot 2024-11-13 174822](https://github.com/user-attachments/assets/bde9858e-9930-46fb-b782-059f515d0ad6)
@@ -99,6 +107,7 @@ This repository contains the following 3 folders for now :
 10. [IMG_contouring.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_contouring.py)
  
     This script detects and draws contours around objects in images, which is useful for shape analysis and object detection.
+  
    OUTPUT : -->
 
   ![Screenshot 2024-11-13 180943](https://github.com/user-attachments/assets/e068e7bd-5f76-4294-a7e0-1c5006b7c0af)
@@ -122,7 +131,8 @@ This repository contains the following 3 folders for now :
 12. [IMG_hist_eq.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_hist_eq.py)
 
     This script performs histogram equalization on images, which enhances the contrast of images.
-    OUTPUT : -->
+
+     OUTPUT : -->
     
     ![Screenshot 2024-11-13 224422](https://github.com/user-attachments/assets/6c5e9b95-bcaa-4104-8a6d-d99351c639a3)
 
@@ -174,6 +184,7 @@ Includes various video processing methods implemented.
 1. [Video_recording.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/Video_recording.py)
 
    This script allows you to record videos using your webcam or another connected camera. It captures the video feed, processes it, and saves it to a specified file format.
+
     OUTPUT : -->
    
     ![Screenshot 2024-11-13 231038](https://github.com/user-attachments/assets/8aa738a3-f182-43f4-ab22-82bff0d97eee)
@@ -191,7 +202,8 @@ Includes various video processing methods implemented.
 3. [video_Fps_Calculator.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/video_Fps_Calculator.py)
 
     This script calculates the frames per second (FPS) of a video stream. It helps in analyzing the performance of video processing by providing real-time FPS data.
-     OUTPUT : -->
+
+    OUTPUT : -->
    
      ![Screenshot 2024-11-13 230432](https://github.com/user-attachments/assets/7c72d84b-1b29-45d1-a486-065bab77cb3a)
 
@@ -199,18 +211,22 @@ Includes various video processing methods implemented.
 
  
 4. [video_multivideostream.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/video_multivideostream.py)
+
+   This script processes and displays multiple video streams simultaneously. It is designed to handle multiple video inputs and render them together, allowing for complex video processing and comparison tasks.
+
    OUTPUT : -->
    
-   This script processes and displays multiple video streams simultaneously. It is designed to handle multiple video inputs and render them together, allowing for complex video processing and comparison tasks.
+  
  
    
 
 5. [video_stream.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/video_processing%20techniques/video_stream.py)
-   OUTPUT : -->
+
    
    This script streams video from a file or camera in real-time. It serves as a basic utility for streaming video feeds, which can be extended for more advanced processing tasks.
-
-
+   
+    OUTPUT : -->
+    ![Screenshot 2024-11-13 231038](https://github.com/user-attachments/assets/8aa738a3-f182-43f4-ab22-82bff0d97eee)
 
 
 ### [annotations](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/annotations) 📝
