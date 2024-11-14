@@ -8,25 +8,35 @@ The **AI-Enhanced Engagement Tracker** aims to improve the learning experience f
 by monitoring and analyzing their engagement levels in real-time. By leveraging advanced AI techniques, 
 this system provides actionable insights to educators and guardians, creating a more effective and personalized learning environment.
 
-## **REQUIREMENTS**
+## Required Libraries and Versions
 
-PYTHON VERSION : 3.13.0
+1. **OpenCV (cv2)**
+   - Version: 4.10.0
 
-OpenCV (cv2) version: 4.10.0
+2. **face_recognition**
+   - Version: 1.2.3
 
-face_recognition version: 1.2.3
+3. **dlib**
+   - Version: 19.24.6
 
-dlib version: 19.24.6
+4. **pandas**
+   - Version: 2.2.3
 
-pandas version: 2.2.3
+5. **numpy**
+   - Version: 2.1.2
 
-numpy version: 2.1.2
+6. **datetime module**
+   - Version: 5.5
 
-datetime module :5.5
+7. **os module** 
+   - (standard library, no version)
 
-os module (standard library, no version)
+8. **imutils**
+   - Version: 0.5.4
 
-imutils version: 0.5.4
+9. **labelimg**
+  
+
 
 ## **Project Structure** 📁
 
@@ -284,6 +294,26 @@ Stores the annotations used for model training and evaluation.
    Script for segregating data into different categories or groups.
 
 ### [Face Recognition](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/face%20recognition)
+
+## **REQUIREMENTS**
+
+PYTHON VERSION : 3.13.0
+
+OpenCV (cv2) version: 4.10.0
+
+face_recognition version: 1.2.3
+
+dlib version: 19.24.6
+
+pandas version: 2.2.3
+
+numpy version: 2.1.2
+
+datetime module :5.5
+
+os module (standard library, no version)
+
+imutils version: 0.5.4
 
 ## 1. Description
 This project focuses on face recognition using Python, OpenCV, dlib, and face_recognition libraries. It includes functionality to detect faces, recognize a specific individual's face, determine attentiveness based on head pose, and calculate attention scores. The project logs recognized faces along with their attention scores and saves screenshots for further analysis.
