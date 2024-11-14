@@ -1,4 +1,4 @@
-![Screenshot 2024-11-14 180631](https://github.com/user-attachments/assets/34164344-2f7d-4aee-8c57-6492634ec835)# _**AI-Enhanced Engagement Tracker for Young Learners**_ 📚✨
+# _**AI-Enhanced Engagement Tracker for Young Learners**_ 📚✨
 
 Welcome to the **AI-Enhanced Engagement Tracker for Young Learners**! This project is developed by **Subham Sahoo** during an internship at **Infosys Springboard**.
 
