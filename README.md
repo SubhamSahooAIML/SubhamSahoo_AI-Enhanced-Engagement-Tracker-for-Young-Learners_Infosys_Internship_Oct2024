@@ -272,7 +272,12 @@ This project focuses on face recognition using Python, OpenCV, dlib, and face_re
 1. **[attention_score.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/face%20recognition/attention_score.py)**: 
    - Performs face recognition and logs attendance along with attention scores.
    - Saves screenshots and calculates an average attention score.
+  
+   - OUTPUT : -->
+
+
    - ![subham_sahoo__2024-11-14_01-00-20](https://github.com/user-attachments/assets/d8e9a5b9-65cf-4b9e-ba36-38e5d5354b85)
+     
    - ![Screenshot 2024-11-14 175755](https://github.com/user-attachments/assets/5156073b-f29e-467a-9a13-db13f5120fea)
 
 
@@ -280,7 +285,12 @@ This project focuses on face recognition using Python, OpenCV, dlib, and face_re
 2. **[ave_attention_score.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/face%20recognition/ave_attention_score.py)**: 
    - Another script for logging attendance and attention scores with a different approach.
    - Uses face landmarks for attentiveness analysis.
+  
+   - OUTPUT : -->
+
+     
    - ![Screenshot 2024-11-12 172847](https://github.com/user-attachments/assets/0a777dbb-f8ce-47f4-9123-5a1acf9b4a79)
+     
    - ![Screenshot 2024-11-14 175936](https://github.com/user-attachments/assets/a4f7df96-ee84-4e23-92ad-1d98f1303452)
 
 
@@ -288,43 +298,64 @@ This project focuses on face recognition using Python, OpenCV, dlib, and face_re
 3. **[excel_sc_dt.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/face%20recognition/excel_sc%20dt.py)**: 
    - Captures video, recognizes faces, and logs attendance with screenshots.
    - Takes screenshots every 30 seconds and logs attention status.
-   - ![subham_sahoo_2024-11-14_00-45-41](https://github.com/user-attachments/assets/d450f8d4-2518-4d![Screenshot 2024-11-14 180113](https://github.com/user-attachments/assets/c31f500f-da3e-4016-805a-f391693a1819)
-af-826b-fb9945d29366)
+  
+   - OUTPUT : -->
+
+     
+   - ![subham_sahoo_2024-11-14_00-45-41](https://github.com/user-attachments/assets/80931b75-be91-432e-937c-50b44d104994)
+
    - ![Screenshot 2024-11-14 180113](https://github.com/user-attachments/assets/e4d3733d-6013-4c2d-9e6b-76d76a8889d9)
 
 
-    
-
+   
 4. **[excel_sc.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/face%20recognition/excel_sc.py)**: 
    - Similar to excel_sc_dt.py, but with a different configuration for logging and capturing screenshots.
+    OUTPUT : -->
+     
    - ![subham sahoo_2024-11-14_00-47-30](https://github.com/user-attachments/assets/c9bd957c-1608-4057-9e5a-3124be18f9e3)
+     
    - ![Screenshot 2024-11-14 180408](https://github.com/user-attachments/assets/1041552f-67ec-4067-9de1-bc15bff2d43d)
 
 
 
 5. **[Face_Recog.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/face%20recognition/Face_Recog.py)**: 
    - Basic face recognition script for detecting and recognizing faces using the face_recognition library.
+  
+   - OUTPUT : -->
+
+     
    - ![Screenshot 2024-11-14 180631](https://github.com/user-attachments/assets/659caab9-7d6a-4d2b-891a-3b67f837858e)
 
 
 6. **[landmark.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/face%20recognition/landmark.py)**: 
    - Uses dlib's facial landmark predictor to analyze attentiveness based on head pose.
    - Logs attention scores and saves screenshots with annotations.
+  
+   - OUTPUT : -->
+
+     
    -   ![Screenshot 2024-11-14 180830](https://github.com/user-attachments/assets/37e78014-7c39-44f9-a868-0e7931d08cce)
+     
    -   ![Screenshot 2024-11-14 181147](https://github.com/user-attachments/assets/cc4ab355-73dc-43bb-987d-a101f9062213)
 
      
 
 7. **[text.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/face%20recognition/text.py)**: 
    - Contains helper functions and utilities used in other scripts.
+   OUTPUT : -->
+     
    - ![Screenshot 2024-11-14 180941](https://github.com/user-attachments/assets/e8807de7-1ae6-4505-ace8-10a080b866d7)
+     
    -  ![Screenshot 2024-11-14 181227](https://github.com/user-attachments/assets/b6575978-b26b-4117-82d8-8069b8de80fa)
 
 
 
 8. **[tools.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/face%20recognition/tools.py)**: 
    - Contains additional tools and utilities required for face recognition and attentiveness analysis.
+   OUTPUT : -->
+     
    - ![Screenshot 2024-11-14 181026](https://github.com/user-attachments/assets/64b207fc-d138-4ef6-adb8-879258db5369)
+     
    - ![Screenshot 2024-11-14 181256](https://github.com/user-attachments/assets/81d65234-7649-4444-8b92-fd8eb42e1637)
 
 
