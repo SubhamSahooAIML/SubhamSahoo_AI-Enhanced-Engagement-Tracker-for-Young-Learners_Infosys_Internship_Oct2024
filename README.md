@@ -8,15 +8,22 @@ The **AI-Enhanced Engagement Tracker** aims to improve the learning experience f
 by monitoring and analyzing their engagement levels in real-time. By leveraging advanced AI techniques, 
 this system provides actionable insights to educators and guardians, creating a more effective and personalized learning environment.
 
-##**REQUIREMENTS**
+## **REQUIREMENTS**
 
 OpenCV (cv2) version: 4.10.0
+
 face_recognition version: 1.2.3
+
 dlib version: 19.24.6
+
 pandas version: 2.2.3
+
 numpy version: 2.1.2
+
 datetime module :5.5
+
 os module (standard library, no version)
+
 imutils version: 0.5.4
 
 ## **Project Structure** 📁
