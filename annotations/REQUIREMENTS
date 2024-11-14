@@ -1,0 +1,27 @@
+# AI Enhanced Engagement System
+
+## 1. Required Libraries and Versions
+
+1. **OpenCV (cv2)**
+   - Version: 4.10.0
+
+2. **face_recognition**
+   - Version: 1.2.3
+
+3. **dlib**
+   - Version: 19.24.6
+
+4. **pandas**
+   - Version: 2.2.3
+
+5. **numpy**
+   - Version: 2.1.2
+
+6. **datetime module**
+   - Version: 5.5
+
+7. **os module** 
+   - (standard library, no version)
+
+8. **imutils**
+   - Version: 0.5.4
