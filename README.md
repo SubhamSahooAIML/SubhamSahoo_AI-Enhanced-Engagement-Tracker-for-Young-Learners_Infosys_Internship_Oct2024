@@ -10,6 +10,8 @@ this system provides actionable insights to educators and guardians, creating a 
 
 ## **REQUIREMENTS**
 
+PYTHON VERSION : 3.13.0
+
 OpenCV (cv2) version: 4.10.0
 
 face_recognition version: 1.2.3
