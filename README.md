@@ -10,31 +10,94 @@ this system provides actionable insights to educators and guardians, creating a 
 
 ## Required Libraries and Versions
 
-1. **OpenCV (cv2)**
-   - Version: 4.10.0
+# Modules Used in the Project
 
-2. **face_recognition**
-   - Version: 1.2.3
+Here is a list of the main modules used in this AI Enhanced Engagement Tracking System:
 
-3. **dlib**
-   - Version: 19.24.6
+- **tkinter**
+  - For creating the graphical user interface.
+  - Version: Standard library (no version)
 
-4. **pandas**
-   - Version: 2.2.3
+- **PIL (Pillow)**
+  - For handling images.
+  - Version: 8.3.1
 
-5. **numpy**
-   - Version: 2.1.2
+- **OpenCV (cv2)**
+  - For computer vision and video capture.
+  - Version: 4.10.0
 
-6. **datetime module**
-   - Version: 5.5
+- **face_recognition**
+  - For facial recognition capabilities.
+  - Version: 1.2.3
 
-7. **os module** 
-   - (standard library, no version)
+- **dlib**
+  - For facial landmark detection.
+  - Version: 19.24.6
 
-8. **imutils**
-   - Version: 0.5.4
+- **pandas**
+  - For data manipulation and analysis.
+  - Version: 2.2.3
 
-9. **labelimg**
+- **numpy**
+  - For numerical operations.
+  - Version: 2.1.2
+
+- **datetime**
+  - For handling dates and times.
+  - Version: 5.5
+
+- **os**
+  - For file and directory operations.
+  - (Standard library, no version)
+
+- **winsound**
+  - For playing alert sounds.
+  - (Standard library, no version)
+
+- **subprocess**
+  - For running external programs.
+  - (Standard library, no version)
+
+- **tkinter.ttk**
+  - For modern UI widgets.
+  - (Standard library, no version)
+
+- **tkinter.messagebox**
+  - For message boxes.
+  - (Standard library, no version)
+
+- **ttkthemes**
+  - For applying modern themes.
+  - Version: 3.2.2
+
+- **keyboard**
+  - For keyboard input handling.
+  - Version: 0.13.5
+
+- **tkinter.font**
+  - For custom fonts.
+  - (Standard library, no version)
+
+- **time**
+  - For time-related functions.
+  - (Standard library, no version)
+
+- **threading**
+  - For running multiple tasks simultaneously.
+  - (Standard library, no version)
+
+- **win32api**
+  - For Windows-specific functionality.
+  - Version: 303
+
+- **win32con**
+  - For Windows constants.
+  - Version: 303
+
+- **win32gui**
+  - For Windows GUI operations.
+  - Version: 303
+
   
 
 
