@@ -102,7 +102,7 @@ Here is a list of the main modules used in this AI Enhanced Engagement Tracking 
 
 ## **Project Structure** 📁
 
-This repository contains the following 4 folders for now :
+This repository contains the following 5 folders for now :
 
 ### [image_processing_techniques](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/image_processing%20techniques) 🖼️
 1. [IMG_Dilation&erosion.py](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/image_processing%20techniques/IMG_Dilation%26erosion.py) 
