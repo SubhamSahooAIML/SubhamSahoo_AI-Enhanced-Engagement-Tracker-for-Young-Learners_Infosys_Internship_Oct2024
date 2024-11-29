@@ -409,6 +409,78 @@ This project focuses on face recognition using Python, OpenCV, dlib, and face_re
    - ![Screenshot 2024-11-14 181256](https://github.com/user-attachments/assets/81d65234-7649-4444-8b92-fd8eb42e1637)
 
 
+### [FINAL PROJECT](https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/tree/main/projects) 🖼️
+
+![Screenshot 2024-11-29 174619](https://github.com/user-attachments/assets/59bcd008-a7ac-47e6-938d-ec63de8e769d)
+
+#Interface Overview
+This interface page is part of the AI Enhanced Engagement Tracking System, designed to monitor and analyze user engagement in real-time. The system leverages advanced facial recognition and computer vision techniques to provide accurate and insightful data on user interactions.
+
+#Features
+Real-Time Facial Recognition and Tracking: The system captures and identifies faces in real-time, ensuring continuous monitoring.
+
+Advanced Attention Monitoring: Utilizes head pose estimation to assess user attention levels accurately.
+
+Continuous Attention Scoring and Analysis: Provides ongoing analysis and scoring of user engagement.
+
+Automated Screenshot Capture: Automatically takes screenshots at regular intervals for record-keeping and analysis.
+
+Excel-Based Reporting: Generates detailed reports and visualizations using Excel for easy data interpretation.
+
+#Interface Options
+Start Recognition: Begin the facial recognition process.
+
+View Records: Access previously recorded engagement data.
+
+View Screenshots: Browse through captured screenshots.
+
+Exit Application: Close the application safely.
+
+##Screen Overview
+
+![Screenshot 2024-11-29 175243](https://github.com/user-attachments/assets/e9b717bf-866b-4d17-90f4-e2f125806883)
+
+##Screen Layout
+Video Feed:
+
+Displayed on the left side of the screen.
+
+Shows a live video feed of the user.
+
+Used for real-time facial recognition and tracking.
+
+Current Time:
+
+Displays the current time in hours, minutes, and seconds.
+
+Helps in keeping track of the session duration.
+
+Session Duration:
+
+Displays the total duration of the current session.
+
+Useful for monitoring how long the user has been engaged.
+
+Average Attention Score:
+
+Shows the average attention score as a percentage.
+
+Represented with a circular progress indicator.
+
+Indicates the overall engagement level of the user.
+
+Current Status:
+
+Displays the current status of the user (e.g., Attentive).
+
+Shown with a progress bar indicating the engagement percentage.
+
+End Session Button:
+
+A blue button located at the bottom of the screen.
+
+Allows the user to end the session when clicked.
+
 
 
 
