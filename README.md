@@ -98,16 +98,6 @@ Here is a list of the main modules used in this AI Enhanced Engagement Tracking 
   - For Windows GUI operations.
   - Version: 303
 
-##Run the Package Installer Script
-
-To ensure all the necessary packages are installed, run the provided install_packages.py script. This script will check for each library and install it if it's not already installed.
-DOWNLOAD --> [https://github.com/SubhamSahooAIML/SubhamSahoo_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024/blob/main/projects/install_packages.py]
-
-RUN THE FOLLOWING COMMAND IN THE TERMINAL SHELL
-
-python install_packages.py
-
-  
 
 
 ## **Project Structure** 📁
