@@ -504,34 +504,6 @@ This interface page is part of the **AI Enhanced Engagement Tracking System**, d
 - **View Screenshots**: Browse through captured screenshots.
 - **Exit Application**: Close the application safely.
 
-## Screen Overview
-
-### Video Feed
-- Displayed on the left side of the screen.
-- Shows a live video feed of the user.
-- Used for real-time facial recognition and tracking.
-
-### Current Time
-- Displays the current time in hours, minutes, and seconds.
-- Helps in keeping track of the session duration.
-
-### Session Duration
-- Displays the total duration of the current session.
-- Useful for monitoring how long the user has been engaged.
-
-### Average Attention Score
-- Shows the average attention score as a percentage.
-- Represented with a circular progress indicator.
-- Indicates the overall engagement level of the user.
-
-### Current Status
-- Displays the current status of the user (e.g., Attentive).
-- Shown with a progress bar indicating the engagement percentage.
-
-### End Session Button
-- A blue button located at the bottom of the screen.
-- Allows the user to end the session when clicked.
-
 
 ![Screenshot 2024-11-29 175243](https://github.com/user-attachments/assets/e9b717bf-866b-4d17-90f4-e2f125806883)
 
