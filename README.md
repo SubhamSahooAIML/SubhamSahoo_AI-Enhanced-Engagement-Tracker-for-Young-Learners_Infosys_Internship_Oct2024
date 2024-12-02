@@ -469,7 +469,13 @@ This project focuses on face recognition using Python, OpenCV, dlib, and face_re
    - ![Screenshot 2024-11-14 181026](https://github.com/user-attachments/assets/64b207fc-d138-4ef6-adb8-879258db5369)
      
    - ![Screenshot 2024-11-14 181256](https://github.com/user-attachments/assets/81d65234-7649-4444-8b92-fd8eb42e1637)
-  
+.
+.
+.
+.
+.
+.
+
 
 
 
