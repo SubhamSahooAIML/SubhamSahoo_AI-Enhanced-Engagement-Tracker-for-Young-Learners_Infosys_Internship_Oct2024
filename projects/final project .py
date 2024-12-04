@@ -19,6 +19,25 @@ import threading  # For running multiple tasks simultaneously
 import win32api  # For Windows-specific functionality
 import win32con  # For Windows constants
 import win32gui  # For Windows GUI operations
+import pyttsx3 # For text-to-speech
+from gtts import gTTS # For Google text-to-speech
+import playsound # For playing audio files
+
+# Initialize text-to-speech engines
+engine = pyttsx3.init()
+voices = engine.getProperty('voices')
+engine.setProperty('voice', voices[0].id) # Set male voice
+engine.setProperty('rate', 150) # Set speaking rate
+
+def speak_pyttsx3(text):
+    engine.say(text)
+    engine.runAndWait()
+
+def speak_gtts(text):
+    tts = gTTS(text=text, lang='en')
+    tts.save("temp.mp3")
+    playsound.playsound("temp.mp3")
+    os.remove("temp.mp3")
 
 # Global variable to store camera object
 cam = None
@@ -99,11 +118,15 @@ def get_head_pose(landmarks):
 def start_program():
     global cam
     
+    # Welcome message using text-to-speech
+    speak_pyttsx3("Starting AI Enhanced Attention Monitoring System")
+    
     # Try to load the facial landmark predictor model
     try:
         p = "D:\\workspace\\python codes\\shape_predictor_68_face_landmarks.dat"
         landmark_predictor = dlib.shape_predictor(p)
     except:
+        speak_gtts("Error loading facial landmark predictor")
         messagebox.showerror("Error", "Could not load facial landmark predictor")
         return
         
@@ -117,6 +140,7 @@ def start_program():
         known_image = face_recognition.load_image_file(r"D:\workspace\python codes\my photos\IMG-20241025-WA0013.jpg")
         known_faces = face_recognition.face_encodings(known_image)[0]
     except:
+        speak_gtts("Error loading reference face image")
         messagebox.showerror("Error", "Could not load reference face image")
         return
     
@@ -131,6 +155,7 @@ def start_program():
         if not cam.isOpened():
             raise Exception("Camera not accessible")
     except Exception as e:
+        speak_gtts("Camera error occurred")
         messagebox.showerror("Camera Error", str(e))
         return
         
@@ -160,6 +185,7 @@ def start_program():
             cursor.set_hand_cursor()
             if event == cv.EVENT_LBUTTONDOWN:  # If clicked
                 terminate = True
+                speak_pyttsx3("Ending monitoring session")
         else:
             cursor.set_default_cursor()
             
@@ -186,6 +212,7 @@ def start_program():
             
             # Check if frame was captured successfully
             if not ret:
+                speak_gtts("Camera feed interrupted")
                 messagebox.showerror("Error", "Camera feed interrupted")
                 break
 
@@ -460,9 +487,10 @@ def start_program():
                                  (info_panel_start+230, bar_y+15), 
                                  cv.FONT_HERSHEY_DUPLEX, 0.7, (255, 255, 255), 1)
                         
-                        # Play alert sound if not attentive
+                        # Play alert sound and voice warning if not attentive
                         if attentive == 'No':
                             winsound.Beep(1000, 500)
+                            speak_pyttsx3("Please pay attention")
                         
                         # Save screenshot and data
                         screenshot_filename = f"{screenshots_dir}/{name}_{now.strftime('%Y-%m-%d_%H-%M-%S')}.jpg"
@@ -511,6 +539,7 @@ def start_program():
                 break
 
     except Exception as e:
+        speak_gtts("An error occurred")
         messagebox.showerror("Error", f"An error occurred: {e}")
 
     finally:
@@ -518,6 +547,7 @@ def start_program():
         if not df.empty:
             average_attention_score = np.mean(attention_scores) if attention_scores else 0.0
             print(f"Average Attention Score: {average_attention_score:.2f}")
+            speak_pyttsx3(f"Session complete. Average attention score was {int(average_attention_score*100)} percent")
 
             # Add average score to dataframe
             avg_entry = pd.DataFrame({
@@ -536,7 +566,9 @@ def start_program():
                            index=False)
                 df.groupby('Name')['Attention Score'].mean().reset_index().to_csv(
                     'attendance_summary.csv', index=False)
+                speak_pyttsx3("Data saved successfully")
             except Exception as e:
+                speak_gtts("Could not save data")
                 messagebox.showerror("Error", f"Could not save data: {e}")
             
         # Clean up
@@ -549,7 +581,9 @@ def openxcel():
     excel_path = r"C:\Users\Acer\OneDrive\Desktop\attention_score\attendance_with_attention_and_average.xlsx"
     try:
         os.startfile(excel_path)
+        speak_pyttsx3("Opening Excel report")
     except Exception as e:
+        speak_gtts("Error opening Excel file")
         messagebox.showerror("Error", f"Error opening Excel file: {e}")
         try:
             subprocess.Popen(['start', 'excel', excel_path], shell=True)
@@ -561,7 +595,9 @@ def open_screenshots():
     screenshots_dir = "C:\\Users\\Acer\\OneDrive\\Desktop\\attention_score\\screenshots_avg_attention-score"
     if os.path.exists(screenshots_dir):
         subprocess.Popen(f'explorer "{screenshots_dir}"')
+        speak_pyttsx3("Opening screenshots folder")
     else:
+        speak_gtts("Screenshots directory not found")
         messagebox.showerror("Error", "Screenshots directory not found")
 
 # Main application class
@@ -570,6 +606,9 @@ class face_recognition_system:
         self.root = root
         self.root.state('zoomed')  # Maximize window
         self.root.title("AI Enhanced Face Recognition System")
+        
+        # Welcome message
+        speak_pyttsx3("Welcome to AI Enhanced Face Recognition System")
         
         # Apply modern dark theme
         style = ThemedStyle(root)
